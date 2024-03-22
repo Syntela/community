@@ -1,0 +1,2 @@
+# community
+Syntela Partner Community
